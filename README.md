@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @rhadoo25
-- 👀 I’m interested in improving coding and new knowledge.
-- 🌱 I’m currently learning.
+- 👀 I’m interested in improving my coding skills and new knowledge.
+- 🌱 I’m currently learning web development.
 
 
-- 😄 Pronouns: ...
+- 😄 Pronouns: Radu.
 - ⚡ Fun fact: Just a rookie.
 
 <!---

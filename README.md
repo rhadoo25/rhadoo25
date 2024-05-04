@@ -4,7 +4,7 @@
 
 
 - 😄 Pronouns: Radu.
-- ⚡ Fun fact: Just a rookie.
+- ⚡ Fun fact: I'm a rookie.
 
 <!---
 rhadoo25/rhadoo25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
